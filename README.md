@@ -1,5 +1,3 @@
-# Foodie
-
 Restaurant Website - Foodie
 A modern, responsive restaurant website with online food ordering system built with HTML, CSS, and JavaScript.
 🍕 Features
