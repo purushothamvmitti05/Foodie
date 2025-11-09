@@ -1,6 +1,4 @@
-https://purushothamvmitti05.github.io/Foodie/
 🍽️ Foodie – Modern Restaurant Website
-
 A sleek, fully-responsive restaurant website built with HTML, CSS, JavaScript & Bootstrap — featuring online food ordering, table reservation, dynamic menu filtering & shopping cart system.
 
 Live Demo 👉 https://purushothamvmitti05.github.io/Foodie/
