@@ -1,6 +1,6 @@
 Restaurant Website - Foodie
 A modern, responsive restaurant website with online food ordering system built with HTML, CSS, and JavaScript.
-🍕 Features
+🍕 Features  https://purushothamvmitti05.github.io/Foodie/
 
 Home Page - Attractive landing page with hero carousel showcasing restaurant offerings
 Menu Page - Comprehensive menu with category filters (Pizza, Burger, Pasta, Fries)
